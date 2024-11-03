@@ -12,3 +12,5 @@ Here is some text that sonsititutes my first commit in my first repo.
 
 Here is more ttxt that will be added in my second commit.
 
+# My third commit 
+here is some final text for third commit.
