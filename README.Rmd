@@ -13,4 +13,11 @@ Here is some text that sonsititutes my first commit in my first repo.
 Here is more ttxt that will be added in my second commit.
 
 # My third commit 
+<<<<<<< HEAD
 here is some final text for third commit!
+=======
+here is some final text for third commit.
+
+# My test branch-for sure:
+here is some text that I will commit to the test branch do it another time.
+>>>>>>> test
