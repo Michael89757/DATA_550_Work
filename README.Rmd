@@ -1,5 +1,5 @@
 ---
-title:Myfirst git repo
+title:Myfirst git repo(confict trst)
 author:Xinyu Zhang
 output:github_document
 ---
