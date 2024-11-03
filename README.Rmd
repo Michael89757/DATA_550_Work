@@ -7,3 +7,8 @@ output:github_document
 #My first commit
 
 Here is some text that sonsititutes my first commit in my first repo.
+
+# My second commit
+
+Here is more ttxt that will be added in my second commit.
+
