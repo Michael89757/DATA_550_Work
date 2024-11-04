@@ -5,6 +5,7 @@ Xinyu Zhang
 # My first commit
 
 Here is some text that sonsititutes my first commit in my first repo.
+text for another commit
 
 # My second commit
 
