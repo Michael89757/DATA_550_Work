@@ -1,12 +1,13 @@
 ---
-title:Myfirst git repo(confict trst)
-author:Xinyu Zhang
-output:github_document
+title:  Myfirst git repo(confict trst)
+author: Xinyu Zhang
+output: github_document
 ---
 
-#My first commit
+# My first commit
 
 Here is some text that sonsititutes my first commit in my first repo.
+text for another commit
 
 # My second commit
 
